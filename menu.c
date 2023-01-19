@@ -9,6 +9,7 @@
 
 
 void startMenu() {
+	
 	struct user firstUser;
 	int highScore;
     // Read high score
